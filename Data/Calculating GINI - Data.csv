@@ -1,0 +1,9 @@
+TID,Income,house,Outcome
+1,25,own,0
+2,35,rent,0
+3,33,own,0
+4,28,rent,0
+5,55,own,1
+6,48,rent,1
+7,65,own,1
+8,85,rent,1

@@ -1,2 +1,1 @@
-# decisiontreeclassifier
-This is my attempt at creating a Decision Tree Classifier from scratch.
+Here is the start of my Decision Tree Classifier.
